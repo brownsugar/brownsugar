@@ -50,6 +50,14 @@ I'm Lay, aka Brownsugar.
 
 🔗 Link: [https://lsp.brownsugar.work](https://lsp.brownsugar.work/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
+### BAHA Auto Sign
+
+> Daily punch in on Bahamut website automatically.
+
+[![Chrome](https://img.shields.io/chrome-web-store/users/nlcekebohjbgnfgjicklnjbnefmmgggk?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://j.mp/BAHAAutoSign)
+
+🔗 Link: [https://home.gamer.com.tw/creationDetail.php?sn=3573456](https://home.gamer.com.tw/creationDetail.php?sn=3573456)
+
 ### KartQuickLogin
 
 > A desktop application for beanfun! services, start games in just one click!
