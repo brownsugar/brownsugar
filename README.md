@@ -19,10 +19,10 @@ I'm Lay, aka Brownsugar.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@l3rownsugar-F0F0F0?style=for-the-badge&logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/l3rownsugar/)
-  [![CodePen](https://img.shields.io/badge/CodePen-@Brownsugar-F0F0F0?style=for-the-badge&logo=codepen&labelColor=000)](https://codepen.io/Brownsugar)
-  [![WordPress](https://img.shields.io/badge/Blog-LAY%20%E2%80%A7%20Blog-F0F0F0?style=for-the-badge&logo=wordpress&labelColor=21759B)](https://blog.brownsugar.tw/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
-  [![YouTube](https://img.shields.io/badge/YouTube-@sandwich1168-F0F0F0?style=for-the-badge&logo=youtube&labelColor=F00)](https://www.youtube.com/sandwich1168)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/l3rownsugar/)
+  [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=codepen&labelColor=000)](https://codepen.io/Brownsugar)
+  [![WordPress](https://img.shields.io/badge/-Blog-21759B?style=for-the-badge&logo=wordpress&labelColor=21759B)](https://blog.brownsugar.tw/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
+  [![YouTube](https://img.shields.io/badge/-YouTube-F00?style=for-the-badge&logo=youtube&labelColor=F00)](https://www.youtube.com/sandwich1168)
   
   ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=brownsugar&hide_title=true&hide=stars&count_private=true&show_icons=true)
   ![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brownsugar&langs_count=3&layout=compact)
