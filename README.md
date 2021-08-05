@@ -38,7 +38,8 @@ I'm Lay, aka Brownsugar.
 > RE:START League, aka RSL, is a eSports league founded in 2020.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/brownsugar/rsl-dev?style=flat-square&logo=github&label=Last%20commit&labelColor=24292e&logoColor=FFF&color=F0F0F0)](https://github.com/brownsugar/rsl-dev)
-[![Scrutinizer code quality](https://img.shields.io/scrutinizer/quality/g/brownsugar/rsl-dev?style=flat-square)](https://github.com/brownsugar/rsl-dev)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/brownsugar/rsl-dev?style=flat-square&label=Scrutinizer)](https://scrutinizer-ci.com/g/brownsugar/rsl-dev/)
+[![CodeFactor Rating](https://img.shields.io/codefactor/grade/github/brownsugar/rsl-dev?style=flat-square&label=CodeFactor)](https://www.codefactor.io/repository/github/brownsugar/rsl-dev)
 
 🔗 Link: [https://rsl.tw](https://rsl.tw/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
