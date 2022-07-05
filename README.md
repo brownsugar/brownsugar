@@ -27,11 +27,11 @@ I'm Lay, aka Brownsugar.
   ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=brownsugar&hide_title=true&hide=stars&count_private=true&show_icons=true)
   ![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brownsugar&langs_count=3&layout=compact)
 
-  [![github-readme-streak-stats](http://github-readme-streak-stats.herokuapp.com/?user=brownsugar)](https://github.com/brownsugar)
+  [![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=brownsugar)](https://github.com/brownsugar)
   
 </div>
 
-## Projects
+## Project development
 
 ### RE:START League
 
@@ -47,17 +47,19 @@ I'm Lay, aka Brownsugar.
 
 > Pack your favorite LINE stickers, animated stickers, emojis and themes in ZIPs!
 
-[![Chrome](https://img.shields.io/chrome-web-store/users/bngfikljchleddkelnfgohdfcobkggin?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://j.mp/LINEStickerPacker)
+[![Chrome](https://img.shields.io/chrome-web-store/users/bngfikljchleddkelnfgohdfcobkggin?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://brn.sg/LINEStickerPacker)
 
 🔗 Link: [https://lsp.brownsugar.work](https://lsp.brownsugar.work/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
-### BAHA Auto Sign
+### Baha Auto Sign
 
-> Daily punch in on Bahamut website automatically.
+> Daily sign in on Bahamut website automatically.
 
-[![Chrome](https://img.shields.io/chrome-web-store/users/nlcekebohjbgnfgjicklnjbnefmmgggk?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://j.mp/BAHAAutoSign)
+[![GitHub last commit](https://img.shields.io/github/last-commit/brownsugar/baha-auto-sign?style=flat-square&logo=github&label=Last%20commit&labelColor=24292e&logoColor=FFF&color=F0F0F0)](https://github.com/brownsugar/baha-auto-sign)
+[![Chrome](https://img.shields.io/chrome-web-store/users/nlcekebohjbgnfgjicklnjbnefmmgggk?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://brn.sg/BahaAutoSign)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/brownsugar/baha-auto-sign.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/brownsugar/baha-auto-sign/context:javascript)
 
-🔗 Link: [https://home.gamer.com.tw/creationDetail.php?sn=3573456](https://home.gamer.com.tw/creationDetail.php?sn=3573456)
+🔗 Link: https://brn.sg/BahaAutoSign
 
 ### KartQuickLogin
 
@@ -107,7 +109,7 @@ I'm Lay, aka Brownsugar.
 
 🔗 Link: [https://duzzi.brownsugar.work](https://duzzi.brownsugar.work/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
-## Websites
+## Website management
 
 ### LAY ‧ Blog
 
@@ -147,13 +149,15 @@ I'm Lay, aka Brownsugar.
 
 🔗 Link: [https://3bao.kaobei.la](https://3bao.kaobei.la/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
-<!-- ## Broadcasting
+## ESports broadcasting
 
-- -->
+The complete behind-the-scenes stories of my broadcasting experience.
+
+🔗 Link: [https://brn.sg/esports-broadcasting](https://brn.sg/esports-broadcasting?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
 ## Contact Info
 
-### Mail
+### EMail
 
 > contact@brownsugar.tw
 
@@ -161,6 +165,6 @@ I'm Lay, aka Brownsugar.
 
 > Brownsugar#8888
 
-### Facebook
+### Facebook Messenger
 
 > https://m.me/Lay.Blog
