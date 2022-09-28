@@ -55,6 +55,7 @@ I'm Lay, aka Brownsugar.
 
 > Daily sign in on Bahamut website automatically.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&labelColor=3178C6&logoColor=FFF)
 [![GitHub last commit](https://img.shields.io/github/last-commit/brownsugar/baha-auto-sign?style=flat-square&logo=github&label=Last%20commit&labelColor=24292e&logoColor=FFF&color=F0F0F0)](https://github.com/brownsugar/baha-auto-sign)
 [![Chrome](https://img.shields.io/chrome-web-store/users/nlcekebohjbgnfgjicklnjbnefmmgggk?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://brn.sg/BahaAutoSign)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/brownsugar/baha-auto-sign.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/brownsugar/baha-auto-sign/context:javascript)
@@ -104,6 +105,7 @@ I'm Lay, aka Brownsugar.
 
 > A cute Discord bot for KartInfo Discord server internal use.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&labelColor=3178C6&logoColor=FFF)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&labelColor=339933&logoColor=FFF)](https://duzzi.brownsugar.work/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)](https://duzzi.brownsugar.work/?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
