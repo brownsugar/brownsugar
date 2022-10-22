@@ -56,6 +56,7 @@ I'm Lay, aka Brownsugar.
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&labelColor=4FC08D&logoColor=FFF)](https://brn.sg/BpyBA)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&labelColor=00DC82&logoColor=FFF)](https://brn.sg/BpyBA)
 [![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&labelColor=1867C0&logoColor=FFF)](https://brn.sg/BpyBA)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&labelColor=CC6699&logoColor=FFF)](https://brn.sg/BpyBA)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&labelColor=21759B&logoColor=FFF)](https://brn.sg/BpyBA)
 [![GitHub last commit](https://img.shields.io/github/last-commit/brownsugar/rsl-dev?style=flat-square&logo=github&label=Last%20commit&labelColor=24292e&logoColor=FFF&color=F0F0F0)](https://github.com/brownsugar/rsl-dev)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/brownsugar/rsl-dev?style=flat-square&label=Scrutinizer)](https://scrutinizer-ci.com/g/brownsugar/rsl-dev/)
@@ -71,8 +72,9 @@ I'm Lay, aka Brownsugar.
 
 ### LINE Sticker Packer
 
-> Pack your favorite LINE stickers, animated stickers, emojis and themes in ZIPs!
+> A browser extension let you pack your favorite LINE stickers, animated stickers, emojis and themes in ZIPs!
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=333)](https://brn.sg/SmAwB)
 [![Chrome](https://img.shields.io/chrome-web-store/users/bngfikljchleddkelnfgohdfcobkggin?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://brn.sg/LINEStickerPacker)
 ![Pending refactor](https://img.shields.io/badge/%F0%9F%8E%AF-Pending%20refactor-C00?style=flat-square&labelColor=F0F0F0)
 
@@ -86,7 +88,7 @@ I'm Lay, aka Brownsugar.
 
 ### Baha Auto Sign
 
-> Daily sign in on Bahamut website automatically.
+> A browser extension to do daily sign in on Bahamut website and get rewards automatically.
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&labelColor=3178C6&logoColor=FFF)](https://brn.sg/BahaAutoSign?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 [![GitHub last commit](https://img.shields.io/github/last-commit/brownsugar/baha-auto-sign?style=flat-square&logo=github&label=Last%20commit&labelColor=24292e&logoColor=FFF&color=F0F0F0)](https://github.com/brownsugar/baha-auto-sign)
@@ -106,7 +108,7 @@ I'm Lay, aka Brownsugar.
 > A desktop application for beanfun! services, start games in just one click!
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&labelColor=239120&logoColor=FFF)](https://brn.sg/nXYuT)
-[![Windows](https://img.shields.io/badge/Download%20on%20Windows-46k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/nXYuT)
+[![Download on Windows](https://img.shields.io/badge/Download%20on%20Windows-57k+-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/nXYuT)
 [![Pending refactor](https://img.shields.io/badge/%F0%9F%8E%AF-Pending%20refactor-C00?style=flat-square&labelColor=F0F0F0)](https://brn.sg/nXYuT)
 
 <div align="center">
@@ -123,28 +125,33 @@ I'm Lay, aka Brownsugar.
 
 #### AFK 掛機獎勵
 
-[![Windows](https://img.shields.io/badge/Download%20on%20Windows-18k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/bwraZ)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&labelColor=239120&logoColor=FFF)](https://brn.sg/bwraZ)
+[![Download on Windows](https://img.shields.io/badge/Download%20on%20Windows-18k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/bwraZ)
 
 #### Keyboard Display 指法同步
 
-[![Windows](https://img.shields.io/badge/Download%20on%20Windows-8k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/rNnsR)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&labelColor=239120&logoColor=FFF)](https://brn.sg/rNnsR)
+[![Download on Windows](https://img.shields.io/badge/Download%20on%20Windows-8k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/rNnsR)
 
 #### Fishing 釣魚
 
-[![Windows](https://img.shields.io/badge/Download%20on%20Windows-4k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/rtbiJ)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&labelColor=239120&logoColor=FFF)](https://brn.sg/rtbiJ)
+[![Download on Windows](https://img.shields.io/badge/Download%20on%20Windows-4k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/rtbiJ)
 
 #### Time Box 時間寶箱
 
-[![Windows](https://img.shields.io/badge/Download%20on%20Windows-2k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/nV1jE)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&labelColor=239120&logoColor=FFF)](https://brn.sg/nV1jE)
+[![Download on Windows](https://img.shields.io/badge/Download%20on%20Windows-2k-F0F0F0?style=flat-square&logo=windows&labelColor=0078D6&logoColor=FFF)](https://brn.sg/nV1jE)
 
 ### KartRider Web Game Helper
 
 > Just an assistant for KartRider web-based games.
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=333)](https://brn.sg/undNV)
 [![GitHub last commit](https://img.shields.io/github/last-commit/brownsugar/KartWebGameHelper?style=flat-square&logo=github&label=Last%20commit&labelColor=24292e&logoColor=FFF&color=F0F0F0)](https://github.com/brownsugar/KartWebGameHelper)
-[![Chrome](https://img.shields.io/chrome-web-store/users/mddijmjlflfbojkpmngbjhlpmcniljij?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://kinf.cc/kwgh-chrome)
-[![Firefox](https://img.shields.io/amo/users/kartrider-web-game-helper?style=flat-square&logo=firefox&label=Install%20on%20Firefox&labelColor=FF7139&logoColor=FFF&color=F0F0F0)](https://kinf.cc/kwgh-firefox)
-[![Edge](https://img.shields.io/badge/Install%20on%20Edge-28-F0F0F0?style=flat-square&logo=Microsoft%20Edge&labelColor=0078D7)](https://kinf.cc/kwgh-edge)
+[![Install on Chrome](https://img.shields.io/chrome-web-store/users/mddijmjlflfbojkpmngbjhlpmcniljij?style=flat-square&logo=Google%20Chrome&label=Install%20on%20Chrome&labelColor=4285F4&logoColor=FFF&color=F0F0F0)](https://kinf.cc/kwgh-chrome)
+[![Install on Firefox](https://img.shields.io/amo/users/kartrider-web-game-helper?style=flat-square&logo=firefox&label=Install%20on%20Firefox&labelColor=FF7139&logoColor=FFF&color=F0F0F0)](https://kinf.cc/kwgh-firefox)
+[![Install on Edge](https://img.shields.io/badge/Install%20on%20Edge-28-F0F0F0?style=flat-square&logo=Microsoft%20Edge&labelColor=0078D7)](https://kinf.cc/kwgh-edge)
 
 <div align="center">
   
@@ -171,13 +178,16 @@ I'm Lay, aka Brownsugar.
 
 🔗 Link: [https://duzzi.brownsugar.work](https://brn.sg/QlznW)
 
-## Website management
+## Website development & management
 
 ### LAY ‧ Blog
 
 > About the web, about the life.
 
 [![Facebook](https://img.shields.io/badge/Like%20on%20Facebook-13k-F0F0F0?style=flat-square&logo=facebook&labelColor=1877F2&logoColor=FFF)](https://www.facebook.com/Lay.Blog)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&labelColor=21759B&logoColor=FFF)](https://brn.sg/0LORT)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)](https://brn.sg/0LORT)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&labelColor=CC6699&logoColor=FFF)](https://brn.sg/0LORT)
 
 <div align="center">
   
@@ -191,6 +201,8 @@ I'm Lay, aka Brownsugar.
 
 > KartInfo is a community for KartRider players, and the largest KartRider community in Taiwan, founded in 2014.
 
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)](https://brn.sg/nheNx)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&labelColor=0769AD&logoColor=FFF)](https://brn.sg/nheNx)
 [![Facebook](https://img.shields.io/badge/Like%20on%20Facebook-20k-F0F0F0?style=flat-square&logo=facebook&labelColor=1877F2&logoColor=FFF)](https://kinf.cc/fb)
 [![Discord](https://img.shields.io/discord/496729278470160394?style=flat-square&logo=discord&label=Discuss%20on%20Discord&labelColor=5865F2&logoColor=FFF&color=F0F0F0)](https://kinf.cc/dc)
 [![Telegram](https://img.shields.io/badge/Subscribe%20on%20Telegram-@KartInfoTW-F0F0F0?style=flat-square&logo=telegram&labelColor=26A5E4&logoColor=FFF)](https://kinf.cc/tg)
@@ -209,6 +221,7 @@ I'm Lay, aka Brownsugar.
 > BFDB is the first game news and items archive website of BubbleFighter, founded in 2014.
 
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&labelColor=21759B&logoColor=FFF)](https://brn.sg/CDR7d)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&labelColor=CC6699&logoColor=FFF)](https://brn.sg/CDR7d)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&labelColor=0769AD&logoColor=FFF)](https://brn.sg/CDR7d)
 
 <div align="center">
@@ -225,6 +238,7 @@ I'm Lay, aka Brownsugar.
 
 [![Facebook](https://img.shields.io/badge/Follow%20on%20Facebook-3.4k-F0F0F0?style=flat-square&logo=facebook&labelColor=1877F2&logoColor=FFF)](https://www.facebook.com/Kaobei3Bao)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&labelColor=4FC08D&logoColor=FFF)](https://brn.sg/na1m1)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&labelColor=CC6699&logoColor=FFF)](https://brn.sg/na1m1)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)](https://brn.sg/na1m1)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)](https://brn.sg/na1m1)
 ![Pending refactor](https://img.shields.io/badge/%F0%9F%8E%AF-Pending%20refactor-C00?style=flat-square&labelColor=F0F0F0)
@@ -243,9 +257,35 @@ The complete behind-the-scenes stories of my broadcasting experience.
 
 🔗 Link: [https://brn.sg/esports-broadcasting](https://brn.sg/esports-broadcasting?utm_source=GitHub&utm_medium=brownsugar/brownsugar&utm_campaign=readme)
 
+## Publication
+
+### 完全詳解！免費雲端工具活用事典
+
+> Published on 2015/09 by Flag Technology.
+
+<div align="center">
+  
+  [![完全詳解！免費雲端工具活用事典](https://user-images.githubusercontent.com/2935980/197360172-e2af0807-6396-4ad6-a518-3430b6a0339a.jpg)](https://brn.sg/wLG0D)
+  
+</div>
+
+🔗 Link: [https://blog.brownsugar.tw/free-cloud-tools-book/](https://brn.sg/wLG0D)
+
+### Dropbox‧Evernote‧Google 最強雲端活用術
+
+> Published on 2016/06 by Flag Technology.
+
+<div align="center">
+
+  [![Dropbox‧Evernote‧Google 最強雲端活用術](https://user-images.githubusercontent.com/2935980/197360184-991115c9-2425-4d3e-95d5-04a2ea9c0015.jpg)](https://brn.sg/DKPTI)
+  
+</div>
+
+🔗 Link: [https://blog.brownsugar.tw/cloud-tips-and-tricks-book/](https://brn.sg/DKPTI)
+
 ## Contact Info
 
-### EMail
+### E-mail
 
 > contact@brownsugar.tw
 
