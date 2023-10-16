@@ -291,7 +291,7 @@ The complete behind-the-scenes stories of my broadcasting experience.
 
 ### Discord
 
-> brownsugar
+> [brownsugar](https://discord.com/users/121587866022313984)
 
 ### Facebook Messenger
 
