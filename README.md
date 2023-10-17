@@ -291,8 +291,8 @@ The complete behind-the-scenes stories of my broadcasting experience.
 
 ### Discord
 
-> [brownsugar](https://discord.com/users/121587866022313984)
+> [brownsugar](https://brn.sg/discord)
 
 ### Facebook Messenger
 
-> https://m.me/Lay.Blog
+> [@Lay.Blog](https://brn.sg/fbm)
